@@ -2,13 +2,7 @@
 layout: post
 title: Jun6-Jun12
 ---
--		
- -Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).		
- -		
- -![_config.yml]({{ site.baseurl }}/images/config.png)		
- -		
- -The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
- 
+
 ### What did you do this past week? ###
 This week was my first official week in software engineering and the workload was already intense but enriching. Out of the four papers assigned to us, I found the papers about college advice and collegiate happiness very interesting. The one thing that both of the papers stressed, as well as Professor Downing, was the importance of writing. I wasn’t always the biggest fan of writing because I’m a logical-minded person, and hey, let’s face it, as a programmer I’d rather be writing in code than in English. But I see the importance of it and being able to express myself through written word can be trained through writing this blog.
 
