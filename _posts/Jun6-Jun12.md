@@ -1,4 +1,4 @@
-title: Jun6-Jun12
+## Jun 6 - Jun 12 ##
 
 
 ### What did you do this past week? ###
