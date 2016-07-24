@@ -3,7 +3,6 @@ layout: post
 title: Jul 18 - Jul 24
 ---
 ### Describe your experience in this class. ###
-
 Wow. The nine weeks went by quickly like a blur, and now I'm almost at the finish line. I just finished presenting the website my group spent the last three weeks trying to build up, and now it's all over, which is a big sigh of relief. Presenting made me realize I still have to work on public speaking. 
 
 Looking back at the nine weeks, I'm surprised at how much we've covered in such a short amount of time. I had no knowledge of Python coming into this class, but now I can leave the class with both the knowledge and appreciation of a very powerful language. I'm also very excited to use the knowledge of building a website to build my own website as soon as this class is over with! 
