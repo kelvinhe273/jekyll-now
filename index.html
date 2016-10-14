@@ -1,18 +1,52 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
 
-<div class="posts">
-  {% for post in site.posts %}
-    <article class="post">
+		<title>Kelvin He</title>
 
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
+		<link rel="stylesheet" href="css/style.css">
+		
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
-  {% endfor %}
-</div>
+		<!--[if lt IE 9]>
+			<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+		<![endif]-->
+	</head>
+
+	<body class="animated bounceInDown">
+		<div class="avatar">
+			<img src="img/profpic.jpg" alt="Avatar">
+		</div>
+
+		<div class="content">
+			<h1 class="title">Kelvin<br>He<br></h1>
+
+			<link href="https://fonts.googleapis.com/css?family=Poiret+One" rel="stylesheet" type="text/css"/>
+			<div id="typedtext"></div>
+
+
+			<script src="js/typewriter.js"></script>
+
+			<div><br></div>
+
+			<ul class="social-icons">
+				<li><a class="twitter" href="https://twitter.com/kelvinhe" title="Twitter">Twitter</a></li>
+				<li><a class="facebook" href="https://www.facebook.com/kelvinhe273" title="Facebook">Facebook</a></li>
+				<!-- <li><a class="googleplus" href="#" title="Google+">Google+</a></li> -->
+				<!-- <li><a class="dribbble" href="#" title="Dribbble">Dribbble</a></li> -->
+				<li><a class="instagram" href="https://www.instagram.com/kelvinhe" title="Instagram">Instagram</a></li>
+				<!-- <li><a class="flickr" href="#" title="Flickr">Flickr</a></li> -->
+			</ul>
+
+			<p>
+<!-- 				Founder of YOUR COMPANY<br>
+				<a href="#">theultralinx.com</a><br>
+				<a href="">ultralinxweb.com</a> -->
+			</p>
+
+			<p>Comments, suggestions, questions? <a href="mailto:kelvinhe1995@gmail.com">Email me</a>.</p>
+		</div>
+	</body>
+</html>
